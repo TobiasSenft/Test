@@ -1,12 +1,12 @@
-### Titel
+# Titel
 
-## Tabelle
+### Tabelle
 Spalte 1 | Spalte 2 | Spalte 3
 :--- | :---: | ---:
 links | zentriert | rechts
 
 
-## geordnete Liste
+### geordnete Liste
 1. Zeile 1
 2. Zeile 2
 3. Zeile 3
